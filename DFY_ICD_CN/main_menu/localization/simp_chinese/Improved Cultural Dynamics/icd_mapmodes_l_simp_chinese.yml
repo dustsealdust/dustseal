@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ mapmode_icd_culture_assimilation_mode_name: "主流文化同化"
+ MAPMODE_ICD_CULTURE_ASSIMILATION_MODE: "#T $mapmode_icd_culture_assimilation_mode_name$#!\n此显示某个地点正在同化至哪种文化——无论是我们的文化、另一国家的文化还是本地的优势文化。"
+ icd_culture_assimilation_mode_max: "同化至我们的主流文化"
+ icd_culture_assimilation_mode_low: "我方文化正被另一文化同化"
+ icd_culture_assimilation_mode_high: "同化到另一主流文化"
+ icd_culture_assimilation_mode_mid: "同化为地点的优势文化"
+ icd_culture_assimilation_mode_orange: "同化为另一种文化"
+ icd_culture_assimilation_mode_black: "未殖民"
+ ICD_CULTURE_ASSIMILATION_MODE_TOOLTIP_NONE: "未殖民的地点不会同化"
+ ICD_CULTURE_ASSIMILATION_MODE_TOOLTIP: "[ROOT.GetLocation.GetName]的主流[culture|e]是[ROOT.GetLocation.GetDominantCulture.GetName]。该地点目前正在同化为[ROOT.GetLocation.GetProvince.MakeScope.GetVariable('promoting_culture').GetCulture.GetName]"
+ ICD_CULTURE_ASSIMILATION_MODE_TOOLTIP_NO_PROMOTING: "[ROOT.GetLocation.GetName]的主要[culture|e]是[ROOT.GetLocation.GetDominantCulture.GetName]。该地点正在同化为[ROOT.GetLocation.GetOwner.GetCulture.GetName]"

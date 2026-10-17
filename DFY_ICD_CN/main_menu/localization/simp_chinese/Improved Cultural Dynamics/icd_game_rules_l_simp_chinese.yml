@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ rule_icd_promote_culture_cabinet_action: "#color_yellow ICD#!：推行文化内阁行动规则"
+ setting_icd_cabinet_action_off: "不可用"
+ setting_icd_cabinet_action_off_desc: "“推广文化”内阁行动不可用，取而代之的是一项可指定省份应同化为何种文化的内阁行动。更具历史真实性，但玩家的自主性有所降低。"
+ setting_icd_cabinet_action_on_vanilla: "完全可用"
+ setting_icd_cabinet_action_on_vanilla_desc: "“推广文化”内阁行动可用，且与原版完全相同。不推荐使用，会影响游戏体验。"
+ setting_icd_cabinet_action_on_edited: "可用但已修改"
+ setting_icd_cabinet_action_on_edited_desc: "一个经过编修改的“推广文化”内阁行动版本已可用。"
+ rule_icd_culture_marking: "#color_yellow ICD#!：文化标记"
+ setting_icd_culture_marking_off: "不可用"
+ setting_icd_culture_marking_off_desc: "“标记”内阁行动不可用。这将提供一种不易被利用但创造性灵活性较低的体验。"
+ setting_icd_culture_marking_on: "可用"
+ setting_icd_culture_marking_on_desc: "“标记”内阁行动可用。玩家可能滥用此内阁行动，导致模组中的部分文化机制失效。"
